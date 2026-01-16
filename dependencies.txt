@@ -1,0 +1,27 @@
+Q1 dependencies:
+TensorFlow: 2.19.0
+NumPy: 2.0.2
+Matplotlib: 3.10.0
+OpenCV: 4.12.0
+scikit-image: 0.25.2
+scikit-learn: 1.6.1
+
+
+Q2 dependencies:
+TensorFlow: 2.19.0
+NumPy: 2.0.2
+Matplotlib: 3.10.0
+Pandas: 2.2.2
+scikit-learn: 1.6.1
+functions.py
+
+Q3 dependencies:
+TensorFlow: 2.19.0
+NumPy: 2.0.2
+Matplotlib: 3.10.0
+Pandas: 2.2.2
+scikit-learn: 1.6.1
+functions.py
+
+functions.py dependencies:
+Pandas: 2.2.2
