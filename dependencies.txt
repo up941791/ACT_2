@@ -12,13 +12,16 @@ TensorFlow: 2.19.0
 NumPy: 2.0.2
 Matplotlib: 3.10.0
 Pandas: 2.2.2
-PIL: 11.3.0
 scikit-learn: 1.6.1
+functions.py
 
 Q3 dependencies:
 TensorFlow: 2.19.0
 NumPy: 2.0.2
 Matplotlib: 3.10.0
 Pandas: 2.2.2
-PIL: 11.3.0
 scikit-learn: 1.6.1
+functions.py
+
+functions.py dependencies:
+Pandas: 2.2.2
